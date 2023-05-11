@@ -1,0 +1,31 @@
+[{
+        "name": "QuizBuddy Assessment Platform",
+        "desc": "Web platform which tracks the student's activity during the online test and generate detailed feedback report of student's performance",
+        "image": "login",
+        "category": "android",
+        "links": {
+            "view": "",
+            "code": ""
+        }
+    },
+    {
+        "name": "Quick Draw Recognizer",
+        "desc": "Hand Sketch Image Classifier developed using various CNN Architectures",
+        "image": "sppuprepandroid",
+        "category": "android",
+        "links": {
+            "view": "",
+            "code": ""
+        }
+    },
+    {
+        "name": "Covid-19 Tracker App & Vaccine Slot Finder",
+        "desc": "Android Application which tracks the Covid-19 cases from all over the world and also helps users to find COVID vaccine slots near",
+        "image": "sppuprepandroid",
+        "category": "android",
+        "links": {
+            "view": "",
+            "code": ""
+        }
+    }
+]
